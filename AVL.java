@@ -6,14 +6,14 @@ import java.util.Set;
 /**
  * Your implementation of an AVL.
  *
- * @author Nicholas Watney Meyer
- * @version 2.0
- * @userid nmeyer32
- * @GTID 903 444 783
+ * @author Ernest Locke
+ * @version 2.1
+ * @userid ELocke69
+ * @GTID 123 456 789
  *
- * Collaborators: Me, myself, and I.
+ * Collaborators: George Burdell and Buzz.
  *
- * Resources: Only the resources provided to me.
+ * Resources: Treasure chest.
  */
 public class AVL<T extends Comparable<? super T>> {
 
