@@ -3,12 +3,12 @@ import java.util.*;
 /**
  * Your implementation of various sorting algorithms.
  *
- * @author Nicholas Watney Meyer
+ * @author Tom Hanks
  * @version 2.1
- * @userid nmeyer32
- * @GTID 903 444 783
+ * @userid HankTheWankTank12
+ * @GTID 123 456 789
  *
- * Collaborators: Me, Myself, and I.
+ * Collaborators: Rumor has it that Tom seeked help from Corona (Get healthy soon, Tom!)
  *
  * Resources: Only those provided to me.
  */
